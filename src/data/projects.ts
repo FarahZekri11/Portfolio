@@ -132,7 +132,7 @@ Implemented configurable overtime computations (holiday, rest days, weekly thres
     highlights: [
       'Engineered desktop architecture with C#/.NET 8, WPF (MVVM), and SOLID: 18 ViewModels, 26 service interfaces, IoC container',
       'Built attendance engine: CSV/TXT badge-log parsers (Strategy pattern), idempotent re-import, automated net hours, lateness, absences, night shifts & anomaly detection',
-      'Implemented configurable overtime computation and RBAC security (15 modules, 41 permissions) with session management, PBKDF2 passwords & audit-trail',
+      'Implemented configurable overtime computation (with adjustable pay coefficients) and RBAC security (15 modules, 41 permissions) with session management, PBKDF2 passwords & audit-trail',
       'Modeled data with EF Core 8 (19 tables, 18 migrations); wrote 110 automated tests (xUnit, Moq, FluentAssertions), all passing',
       'Delivered in 3 Scrum sprints with HR interactive dashboards and CSV report generation',
     ],

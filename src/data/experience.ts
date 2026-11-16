@@ -13,7 +13,7 @@ export const experiences: Experience[] = [
     responsibilities: [
       'Designed PointageEnterprise desktop app in C#/.NET 8 with WPF (MVVM) & SOLID: 18 ViewModels, 26 service interfaces, dependency injection (IoC)',
       'Built attendance engine: CSV/TXT badge-log parsers (Strategy pattern), idempotent re-import, automated net hours, lateness, absences, night shifts & anomaly detection',
-      'Implemented configurable overtime computation (holiday, rest day, weekly threshold) & RBAC security (15 modules, 41 permissions) with session management, PBKDF2 passwords & audit-trail',
+      'Implemented configurable overtime computation (holiday, rest day, weekly threshold) with adjustable pay coefficients & RBAC security (15 modules, 41 permissions) with session management, PBKDF2 passwords & audit-trail',
       'Modeled data with EF Core 8 (19 tables, 18 migrations); wrote 110 automated tests (xUnit, Moq, FluentAssertions), all passing; delivered in 3 Scrum sprints with HR dashboard & CSV reports',
     ],
     technologies: [

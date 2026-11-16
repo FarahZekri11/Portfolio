@@ -8,6 +8,7 @@ const icons: Record<string, string> = {
   backend:   '⚙️',
   devops:    '🐳',
   cloud:     '☁️',
+  messaging: '📡',
   databases: '🗄️',
   ai:        '🤖',
   architecture: '🏛️',
